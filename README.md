@@ -1,8 +1,10 @@
 # Ethical-Bias-Analytics-in-ML
 This is a final project for Machine Learning. 
 
-Dataset:Home Mortgage Disclosure Act
+**Dataset:Home Mortgage Disclosure Act**
+
 •11.7 million loan records reported by 7,062 financial institutions in 2014.  
+
 •25 variables; Loan type, Property type, Action type…
 
 **Research Question:**
@@ -12,7 +14,7 @@ Dataset:Home Mortgage Disclosure Act
 2. Mitigate the bias while maintaining or improving a machine learning model’s predictive accuracy
 
 
-Package used: [Themis-ml](https://github.com/cosmicBboy/themis-ml)
+**Package used**: [Themis-ml](https://github.com/cosmicBboy/themis-ml)
 
 **Conclusion:**
 
